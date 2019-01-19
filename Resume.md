@@ -15,7 +15,7 @@ Masaki Suzuki<br>
 - Applied Information Technology Engineer Examination（AP） passed.
 
 # Skill Sets
-- Nearly 15 year's experience of software engineering and development.
+- Nearly 15 year's experience of software architecting, design, and development.
     - Especially, I'm good at C#/.net. (And I like it very much.)
     - Well experienced about Web application design and development.
 
@@ -79,31 +79,32 @@ Masaki Suzuki<br>
 # Career
 
 ## As a Freelance Software Engineer(Oct 2016 ～ Now)
-Application Engineer
+Software Engineer
 
 - Designed and developed applications for business.
     - Microsoft Dynamics CRM Application(C#.net, knockout.js, SQL Server)
     - WPF Application(C#.net/XAML/SQL Server)
     - Data Transfer Tool for Server replacement.(sh/bash, Oracle)
-    - And some Web or Desktop Application(C#/VB.net, Spring, JavaScript, SQL Server, Oracle, PostgreSQL)
+    - And some Web or Desktop Applications(C#/VB.net, Spring, JavaScript, SQL Server, Oracle, PostgreSQL)
 
 ## As a member of Employment support facility(Apr 2015 ～ Sep 2016)
-Application Engineer
+Software Engineer/Markup Engineer
 
 - Designed and developed applications for business and for the public.
-    - Web Applications(FuelPHP, JavaScript, MySQL)
     - iOS Application for a certain local government.(swift, SQLite)
+    - MDM(Mobile Device Management) Web Application(FuelPHP, JavaScript, MySQL)
+    - And Some Web Applications(FuelPHP, JavaScript, MySQL)
 
 - Web Site Coding of some companies
     - Web site coding by HTML, CSS, javaScript, and JQuery.
     - Web site Coding with using CMS(WordPress, Kentico, and so on(PHP, HTML, CSS, JavaScript))
 
 ## As a employee of Some Companies(Jun 2000 ～ Mar 2015)
-Application Engineer/Lead Engineer
+Software Engineer/Lead Engineer/Markup Engineer
 - Designed and developed applications for business.
     - WinForm Applicatons(C#, SQL Server)
     - Web Applications(C#/vb.net, JavaScript, SQL Server, Oracle)
-    - Shopping site(CakePHP, JavaScript, MySQL)
+    - Shopping Site of a certain flower shop(CakePHP, JavaScript, MySQL)
 
 - Web Site Coding associated with Web Application Development.
     - Designinng and coding of web sites by HTML, CSS, and JQuery.
